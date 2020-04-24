@@ -1,2 +1,2 @@
-#Myapp
-This is my app
+#PACMAN
+Implementation of search and searchagents algorithms in pacman project
